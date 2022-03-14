@@ -1,0 +1,19 @@
+{
+  "name": "dynamodb",
+  "version": "1.0.0",
+  "description": "To intract with AWS Dynamodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kambehba/dynamoDb.git"
+  },
+  "author": "Kam Parsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kambehba/dynamoDb/issues"
+  },
+  "homepage": "https://github.com/kambehba/dynamoDb#readme"
+}
